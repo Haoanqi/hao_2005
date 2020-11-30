@@ -8,6 +8,7 @@ class HaoApplicationTests {
 
     @Test
     void contextLoads() {
+        int a=10;
     }
 
 }
